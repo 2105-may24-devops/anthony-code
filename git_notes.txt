@@ -1,0 +1,5 @@
+New Repository:
+
+1. Make a new directory #mkdir <directory name>
+2. git init
+3. 
